@@ -73,7 +73,7 @@ Create a Low-Fi Power BI dashboard canvas to take to the meeting that includes t
 ---
 
 ## Part A.2.: Answer
-For initial Low-Fi Power BI mockup report, I generated a ![mockup CSV data](./mockup_data.csv) which was then imported into Power BI service, consisting of columns “Year”, “Material Costs”, “Labor Costs”, “Phase”, “Budgeted Costs”, “Actual Costs”, “Productivity”, and “Profit Margin”. The Power BI report is saved ![here](./Pre-Assessment.pbix).
+For initial Low-Fi Power BI mockup report, I generated a ![mockup CSV data](./mockup_data.csv) which was then imported into Power BI service, consisting of columns “Year”, “Material Costs”, “Labor Costs”, “Phase”, “Budgeted Costs”, “Actual Costs”, “Productivity”, and “Profit Margin”. The Power BI report is saved in [this PBIX file](./Pre-Assessment.pbix).
 
 <u>**Question 1: Cost Analysis**</u>
 - Line chart with axis as “Year” and values as “Material Costs” and “Labor Costs”.
